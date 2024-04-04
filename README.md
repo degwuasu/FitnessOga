@@ -25,3 +25,4 @@ InFit is built following MVVM design pattern guidelines and using the following 
 
 ![](https://github.com/KenAli77/InFit/blob/master/inFit_banner_2.png)
 "# FitnessOga" 
+"# FitnessOga" 
